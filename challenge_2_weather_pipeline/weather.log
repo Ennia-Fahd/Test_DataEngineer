@@ -1,0 +1,54 @@
+2025-06-22 21:43:34,086 - INFO - Downloading data for Paris
+2025-06-22 21:43:58,778 - INFO - Downloading data for London
+2025-06-22 21:44:23,874 - INFO - Downloading data for New York
+2025-06-22 21:44:48,806 - INFO - Downloading data for Tokyo
+2025-06-22 21:45:13,729 - INFO - Downloading data for Casablanca
+2025-06-22 21:45:38,935 - INFO - CSV report exported.
+2025-06-22 21:45:39,805 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:39,806 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:39,809 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:39,810 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:39,812 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:39,814 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:39,816 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:39,817 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:39,818 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:39,819 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:45:40,008 - INFO - Plot saved as temperature_trend.png
+2025-06-22 21:49:19,161 - INFO - Downloading data for Paris
+2025-06-22 21:49:42,810 - INFO - Downloading data for London
+2025-06-22 21:50:05,796 - INFO - Downloading data for New York
+2025-06-22 21:50:28,881 - INFO - Downloading data for Tokyo
+2025-06-22 21:50:52,033 - INFO - Downloading data for Casablanca
+2025-06-22 21:51:15,366 - INFO - CSV report exported.
+2025-06-22 21:51:15,523 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,525 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,526 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,527 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,529 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,530 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,531 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,532 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,534 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,535 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-22 21:51:15,704 - INFO - Plot saved as temperature_trend.png
+2025-06-22 21:17:05,157 - INFO - Downloading data for Paris
+2025-06-22 21:17:43,469 - INFO - Downloading data for London
+2025-06-22 21:18:16,293 - INFO - Downloading data for New York
+2025-06-23 02:03:35,154 - INFO - Downloading data for Paris
+2025-06-23 02:03:59,701 - INFO - Downloading data for London
+2025-06-23 02:04:25,736 - INFO - Downloading data for New York
+2025-06-23 02:04:48,487 - INFO - Downloading data for Tokyo
+2025-06-23 02:05:11,617 - INFO - Downloading data for Casablanca
+2025-06-23 02:05:36,647 - INFO - CSV report exported.
+2025-06-23 02:05:37,356 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,358 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,360 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,361 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,364 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,365 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,366 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,368 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,369 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,370 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-23 02:05:37,567 - INFO - Plot saved as temperature_trend.png

@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  weather-pipeline:
+    build: .
+    container_name: weather_pipeline_container
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
